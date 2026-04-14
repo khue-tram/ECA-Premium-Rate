@@ -80,15 +80,15 @@ The calculator automatically maps the CRA rating to the appropriate buyer risk c
 
 **Concordance overview** (which CRA ratings map to which buyer category depends on country risk):
 
-| Country Cat | CC1 | CC2 | CC3 | CC4 | CC5 |
-|:-----------:|-----|-----|-----|-----|-----|
+| Country Risk | CC1 | CC2 | CC3 | CC4 | CC5 |
+|:------------:|-----|-----|-----|-----|-----|
 | 1 | AAA to AA- | A+ to A- | BBB+ to BBB- | BB+ to BB | BB- and below |
 | 2 | A+ to A- | BBB+ to BBB- | BB+ to BB | BB- | B+ and below |
 | 3 | BBB+ to BBB- | BB+ to BB | BB- | B+ | B and below |
 | 4 | BB+ to BB | BB- | B+ | B | B- and below |
-| 5 | BB- | B+ | B | B- | CCC+ and below |
-| 6 | B+ | B | B- | CCC+ to CCC- | n/a |
-| 7 | B | B- | CCC+ to CCC- | n/a | n/a |
+| 5 | BB- | B+ | B | B- to CCC- | n/a |
+| 6 | B+ | B | B- to CCC- | n/a | n/a |
+| 7 | B | B- to CCC- | n/a | n/a | n/a |
 
 #### Method B: Direct Buyer Risk Category
 
